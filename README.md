@@ -14,6 +14,8 @@ See the image for API calls to Gutendex.
 
 ![Packets](assets/packets.gif)
 
+## [Click here to download the above two packets for you reference.](https://raw.githubusercontent.com/praveendias1180/wp-gutendex/master/packets.pcapng)
+
 # On Activation
 
 On plugin activation, a custom WordPress table is created and automatically populated from the Gutendex API data.
