@@ -14,6 +14,9 @@ See the image for API calls to Gutendex.
 
 ![Packets](assets/packets.gif)
 
+If you are *packet head*, you might be interested in the the following channel,
+https://www.youtube.com/c/ChrisGreer/about
+
 ## [Click here to download the above two packets for you reference.](https://raw.githubusercontent.com/praveendias1180/wp-gutendex/master/packets.pcapng)
 
 # On Activation
